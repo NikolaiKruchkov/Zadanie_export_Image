@@ -1,0 +1,5 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 8.3\ExportImage\ExportImage\bin\Debug\ExportImage.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 8.3\ExportImage\ExportImage\bin\Debug\ExportImage.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 8.3\ExportImage\ExportImage\obj\Debug\ExportImage.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 8.3\ExportImage\ExportImage\obj\Debug\ExportImage.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 8.3\ExportImage\ExportImage\obj\Debug\ExportImage.pdb
